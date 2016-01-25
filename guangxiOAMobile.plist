@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sansoft.oa.guangxi</string>
+				<string>com.sansoft.oa.xny</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>oa mobile for guangxi</key>
 				<string>移动办公</string>
 				<key>title</key>
-				<string>移动办公</string>
+				<string>广西移动办公</string>
 			</dict>
 		</dict>
 	</array>
