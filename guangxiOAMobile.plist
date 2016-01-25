@@ -36,10 +36,10 @@
 				<string>com.sansoft.oa.xny</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>oa mobile for guangxi</key>
-				<string>移动办公</string>
+				<key>subtitle</key>
+				<string>广西分公司</string>
 				<key>title</key>
-				<string>广西移动办公</string>
+				<string>移动办公</string>
 			</dict>
 		</dict>
 	</array>
