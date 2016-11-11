@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://demo.mobile.sansoft.com.cn/download/shandongxny/shandongxnyOAMobile.ipa</string>
+					<string>http://demo.mobile.sansoft.com.cn/download/joa4/oamobile.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -39,7 +39,7 @@
 				<key>subtitle</key>
 				<string>V2</string>
 				<key>title</key>
-				<string>�ƶ��칫V2</string>
+				<string>移动办公V2</string>
 			</dict>
 		</dict>
 	</array>
