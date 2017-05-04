@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://demo.mobile.sansoft.com.cn/download/datanghj/icon-512.png</string>
+					<string>http://demo.mobile.sansoft.com.cn/download/icon-512.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://demo.mobile.sansoft.com.cn/download/datanghj/icon.png</string>
+					<string>http://demo.mobile.sansoft.com.cn/download/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
