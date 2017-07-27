@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sansoft.oa.xny</string>
+				<string>com.sansoft.joa4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
