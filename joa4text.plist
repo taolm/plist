@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://demo.mobile.sansoft.com.cn/joa4/henan/oamobile.ipa</string>
+					<string>http://demo.mobile.sansoft.com.cn/joa4/text/oamobile.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,11 +33,11 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sansoft.joa4</string>
+				<string>com.sansoft.joa4.text</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>河南发电公司</string>
+				<string>大唐测试程序</string>
 				<key>title</key>
 				<string>移动办公V2</string>
 			</dict>
